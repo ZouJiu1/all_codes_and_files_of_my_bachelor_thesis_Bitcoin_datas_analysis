@@ -1,1 +1,6 @@
-*.python linguist-language=python
+*.csv linguist-language=python
+*.json linguist-language=python
+*.ppt linguist-language=python
+*.docx linguist-language=python
+*.pdf linguist-language=python
+*.ppt linguist-language=python
