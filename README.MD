@@ -1,5 +1,8 @@
 # all codes and files of my bachelor thesis <br>
 
+### 山东大学本科毕业论文《比特币交易数据的定量分析》,2018年6月份<br>
+### 本人不支持比特币的发展，真的挺浪费电的，只是由于当时2018年本科毕业论文要写这个<br>
+### 才爬取了很多比特币数据，再次重申本人不支持比特币浪费电
 ### .docx, .pdf, .pptx, these files are my bachelor thesis <br>
 ### Counting codes is in this directory 'entity' <br>
 ### all file can download from here <br>
