@@ -6,11 +6,11 @@
 ### .docx, .pdf, .pptx, these files are my bachelor thesis <br>
 ### Counting codes is in this directory 'entity' <br>
 ### all file can download from here <br>
-[这个是下载链接](https://www.aliyundrive.com/s/CpB635zjPQP) <br>
-[这个是下载链接](https://www.aliyundrive.com/s/jL34nYYy6Zt) <br>
-[这个是下载链接](https://www.aliyundrive.com/s/mUtaVBzJdTS) <br>
-[这个是下载链接](https://www.aliyundrive.com/s/ZG4Wpvjj1s4) <br>
-[这个是下载链接](https://www.aliyundrive.com/s/Wg7aF8MuKDH) <br>
+[https://www.aliyundrive.com/s/GYSxLrtzkgz 提取码: 61yj](https://www.aliyundrive.com/s/GYSxLrtzkgz) <br>
+[https://www.aliyundrive.com/s/UBr8X6YnmXt 提取码: 7p9x](https://www.aliyundrive.com/s/UBr8X6YnmXt) <br>
+[https://www.aliyundrive.com/s/wmv7v1et86t 提取码: f07d](https://www.aliyundrive.com/s/wmv7v1et86t) <br>
+[https://www.aliyundrive.com/s/AmfbLRwFKFj 提取码: mm50](https://www.aliyundrive.com/s/AmfbLRwFKFj) <br>
+[https://www.aliyundrive.com/s/LpojkUunm1e 提取码: f0s3](https://www.aliyundrive.com/s/LpojkUunm1e) <br>
 ### all crawled datas can download from kaggle <br>
 [https://www.kaggle.com/shiheyingzhe/datasets](https://www.kaggle.com/shiheyingzhe/datasets) <br>
 ### or from Tianchi <br>
